@@ -12,12 +12,13 @@
     "experimentalDecorators": true,
     "importsNotUsedAsValues":"remove",
     "target": "es2018",
-    "sourceMap": false,
+    "sourceMap": true,
     "outDir": "./dist",
     "noImplicitAny": true,
     "alwaysStrict": true,
     "strictBindCallApply": true,
-    "strictFunctionTypes": true
+    "strictFunctionTypes": true,
+    "skipLibCheck": true
   },
   "include": ["./src", "./test"]
 }
