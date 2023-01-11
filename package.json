@@ -1,7 +1,7 @@
 {
   "name": "@fluent-iterable/rxjs",
   "description": "A plugin with useful operations to generate rxjs data structures",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "author": {
     "name": "Thiago O Santos <tos.oliveira@gmail.com>"
