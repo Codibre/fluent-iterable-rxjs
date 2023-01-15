@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/codibre/fluent-iterable-rxjs/compare/v1.0.1...v1.0.2) (2023-01-15)
+
+
+### Bug Fixes
+
+* making it fluent-iterable dependant ([cbf64d5](https://github.com/codibre/fluent-iterable-rxjs/commit/cbf64d5cfc9c79708a9f4212c417407431385212))
+
 ## [1.0.1](https://github.com/codibre/fluent-iterable-rxjs/compare/v1.0.0...v1.0.1) (2023-01-11)
 
 
